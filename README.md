@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Blog Platform
 
 A fully functional, dynamic blog platform built with React, TypeScript, Node.js, Express, and MongoDB. This platform features a modern UI, real-time content management, image uploads, and comprehensive admin functionality.
@@ -308,3 +309,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Happy Blogging! 🎉**
 
 For support or questions, please open an issue in the repository.
+=======
+# Satoru-Foundation-
+Project assignment complete details Here 
+>>>>>>> 8425e3d40e4bbc6847ad744832d449a30389df7d
